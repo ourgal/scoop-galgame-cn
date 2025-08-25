@@ -27,3 +27,7 @@ scoop bucket add gal-cn https://github.com/ourgal/scoop-galgame-cn
 ## Tips
 
 喜欢图形界面的朋友可以用 [UniGetUI](https://github.com/marticliment/UniGetUI)。
+
+## 注意
+
+测试平台为 Windows 10。

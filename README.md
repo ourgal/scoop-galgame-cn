@@ -14,15 +14,15 @@ scoop bucket add gal-cn https://github.com/ourgal/scoop-galgame-cn
 
 ## 列表
 
-| name                     | id       |
-| ------------------------ | -------- |
-| 天神乱漫                 | tenshin  |
-| 由梦想与色彩编织而成     | yumeiro  |
-| 硬要无视与你的未来       | aete     |
-| 不要践踏天使的羽毛       | afeather |
-| 3days~在逝去时间的另一端 | 3days    |
-| 女装山脉                 | 3myaku   |
-| 11 月的理想乡            | 11gatsu  |
+| name                                               | id       |
+| -------------------------------------------------- | -------- |
+| [天神乱漫](https://vndb.org/v1322)                 | tenshin  |
+| [由梦想与色彩编织而成](https://vndb.org/v16516)    | yumeiro  |
+| [硬要无视与你的未来](https://vndb.org/v10803)      | aete     |
+| [不要践踏天使的羽毛](https://vndb.org/v6411)       | afeather |
+| [3days~在逝去时间的另一端](https://vndb.org/v1085) | 3days    |
+| [女装山脉](https://vndb.org/v6589)                 | 3myaku   |
+| [11 月的理想乡](https://vndb.org/v16342)           | 11gatsu  |
 
 ## Tips
 

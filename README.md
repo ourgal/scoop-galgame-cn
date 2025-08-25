@@ -23,6 +23,7 @@ scoop bucket add gal-cn https://github.com/ourgal/scoop-galgame-cn
 | [3days~在逝去时间的另一端](https://vndb.org/v1085) | 3days    |
 | [女装山脉](https://vndb.org/v6589)                 | 3myaku   |
 | [11 月的理想乡](https://vndb.org/v16342)           | 11gatsu  |
+| [爱之钥](https://vndb.org/v20232)                  | aikagi   |
 
 ## Tips
 

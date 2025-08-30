@@ -26,6 +26,7 @@ scoop bucket add gal-cn https://github.com/ourgal/scoop-galgame-cn
 | [爱之钥](https://vndb.org/v20232)                  | aikagi   |
 | [怀揣思念同我再会！！](https://vndb.org/v31125)    | aikoi    |
 | [红线](https://vndb.org/v10323)                    | akaiito  |
+| [染成茜色的坂道](https://vndb.org/v547)            | akane    |
 
 ## Tips
 

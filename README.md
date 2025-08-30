@@ -33,6 +33,7 @@ scoop bucket add gal-cn https://github.com/ourgal/scoop-galgame-cn
 | [爱莉娅嘉年华](https://vndb.org/v11301)            | aliascarnival    |
 | [爱莉娅嘉年华FD](https://vndb.org/v16483)          | aliascarnival_fd |
 | [巧可甜恋](https://vndb.org/v26581)                | amachoco         |
+| [巧可甜恋2](https://vndb.org/v30228)               | amachoco2        |
 
 ## Tips
 

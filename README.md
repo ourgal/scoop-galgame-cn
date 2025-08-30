@@ -29,6 +29,7 @@ scoop bucket add gal-cn https://github.com/ourgal/scoop-galgame-cn
 | [染成茜色的坂道](https://vndb.org/v547)            | akane     |
 | [晓之护卫](https://vndb.org/v629)                  | akatsuki  |
 | [晓之护卫2](https://vndb.org/v1307)                | akatsuki2 |
+| [晓之护卫3](https://vndb.org/v3271)                | akatsuki3 |
 
 ## Tips
 

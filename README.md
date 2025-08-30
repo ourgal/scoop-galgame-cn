@@ -24,6 +24,7 @@ scoop bucket add gal-cn https://github.com/ourgal/scoop-galgame-cn
 | [女装山脉](https://vndb.org/v6589)                 | 3myaku   |
 | [11 月的理想乡](https://vndb.org/v16342)           | 11gatsu  |
 | [爱之钥](https://vndb.org/v20232)                  | aikagi   |
+| [怀揣思念同我再会！！](https://vndb.org/v31125)    | aikoi    |
 
 ## Tips
 

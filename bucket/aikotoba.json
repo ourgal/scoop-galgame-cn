@@ -2,14 +2,10 @@
   "version": "0.1.0",
   "description": "密语",
   "url": "https://zd.shinnku.top/file/shinnku/zd/1501-2000/%5B191220%5D%5B%E3%81%82%E3%81%96%E3%82%89%E3%81%97%E3%81%9D%E3%81%B5%E3%81%A8%EF%BC%8B1%5D%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90.rar",
-  "hash": "b81019f3a8b1d2f880a7f909bfc20fcbafdef758da146d9cf1bade12654ad318",
-  "post_install": [
-    "$galSave = if ($env:GalSave) { $env:GalSave } else { \"$env:USERPROFILE\\GalSave\" }",
-    "mkdir $galSave\\aikoi >$null 2>$null",
-    "New-Item -ItemType Junction -Path $dir\\UserData -Target $galSave\\aikoi >$null"
-  ],
+  "hash": "8c968578b6f88bafefdb5f12cf22788be4f0661890914e5343d57b462394eb88",
+  "extract_dir": "アイコトバ",
   "shortcuts": [
-    ["怀揣思念同我再会!!.exe", "怀揣思念同我再会"],
-    ["怀揣思念同我再会!!.exe", "aikoi"]
+    ["aikotoba_cn.exe", "密语"],
+    ["aikotoba_cn.exe", "aikotoba"]
   ]
 }
